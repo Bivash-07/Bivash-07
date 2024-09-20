@@ -10,6 +10,8 @@
 - 💬 Ask me about **Development**
 
 - 📫 How to reach me **bivashkundu2003@gmail.com**
+  
+- ⚡ Fun fact: I believe there’s always something new to learn every day!
 <br>
 
 <h3 align="left">Connect with me:</h3>
