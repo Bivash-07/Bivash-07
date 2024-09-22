@@ -12,14 +12,14 @@
 - 📫 How to reach me **bivashkundu2003@gmail.com**
   
 - ⚡ Fun fact: I believe there’s always something new to learn every day!
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bivash-chandra-kundu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bivash-chandra-kundu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/bivashkundu2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bivashkundu2003" height="30" width="40" /></a>
 </p>
-<br>
+
 
 <h3 align="left">Tools:</h3>
 <!-- <p align="center">
